@@ -1,1 +1,1 @@
-# js-project-pig-game
+# Pig Game
